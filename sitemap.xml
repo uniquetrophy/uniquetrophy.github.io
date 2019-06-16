@@ -3,33 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/all/ut30002/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>/all/ut10001/</loc>
+    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/metal/ut30002/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30001/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30001/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30003/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30003/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+    <loc>/plastic/ut10001/</loc>
+    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url>
   
   <url>
@@ -43,6 +23,26 @@
   </url>
   
   <url>
+    <loc>/all/ut30001/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30001/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut10002/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/plastic/ut10002/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/all/ut20002/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
@@ -50,6 +50,26 @@
   <url>
     <loc>/wood/ut20002/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30002/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30002/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut10003/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/plastic/ut10003/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
@@ -63,13 +83,33 @@
   </url>
   
   <url>
-    <loc>/all/ut10001/</loc>
-    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
+    <loc>/all/ut30003/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/plastic/ut10001/</loc>
-    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
+    <loc>/metal/ut30003/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20004/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20004/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut10004/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/plastic/ut10004/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
@@ -83,43 +123,13 @@
   </url>
   
   <url>
-    <loc>/all/ut10002/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+    <loc>/all/ut20005/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/all/ut10003/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut10004/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut10005/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/plastic/ut10002/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/plastic/ut10003/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/plastic/ut10004/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/plastic/ut10005/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+    <loc>/wood/ut20005/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
@@ -133,383 +143,13 @@
   </url>
   
   <url>
-    <loc>/all/ut20004/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+    <loc>/all/ut10005/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/all/ut30009/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30010/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30014/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30015/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30019/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30020/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30021/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30022/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30023/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30024/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30026/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30027/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30028/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30029/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30030/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30031/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut30032/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30009/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30010/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30014/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30015/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30019/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30020/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30021/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30022/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30023/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30024/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30026/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30027/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30028/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30029/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30030/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30031/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30032/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20004/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20005/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20010/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20011/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20012/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20013/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20014/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20015/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20016/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20017/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20018/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20019/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20020/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20021/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20022/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20023/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20024/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20025/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20026/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20027/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20028/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20005/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20010/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20011/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20012/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20013/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20014/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20015/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20016/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20017/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20018/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20019/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20020/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20021/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20022/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20023/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20024/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20025/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20026/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20027/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20028/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+    <loc>/plastic/ut10005/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
@@ -549,6 +189,366 @@
   
   <url>
     <loc>/wood/ut20009/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30009/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30009/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30010/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30010/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20010/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20010/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20011/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20011/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20012/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20012/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20013/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20013/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20014/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20014/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30014/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30014/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20015/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20015/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30015/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30015/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20016/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20016/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20017/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20017/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20018/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20018/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20019/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20019/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30019/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30019/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20020/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20020/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30020/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30020/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20021/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20021/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30021/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30021/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20022/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20022/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30022/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30022/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20023/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20023/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30023/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30023/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20024/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20024/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30024/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30024/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20025/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20025/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20026/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20026/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30026/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30026/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20027/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20027/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30027/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30027/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut20028/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wood/ut20028/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30028/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30028/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30029/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30029/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30030/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30030/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30031/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30031/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all/ut30032/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/metal/ut30032/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
@@ -594,7 +594,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
     <priority>0</priority>
   </url>
   
