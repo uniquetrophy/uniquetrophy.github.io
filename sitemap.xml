@@ -113,16 +113,6 @@
   </url>
   
   <url>
-    <loc>/plastic/ut10005/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/plastic/ut10006/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/all/ut30004/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url>
@@ -158,6 +148,11 @@
   </url>
   
   <url>
+    <loc>/plastic/ut10005/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/all/ut20006/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
@@ -169,6 +164,11 @@
   
   <url>
     <loc>/all/ut10006/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/plastic/ut10006/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
