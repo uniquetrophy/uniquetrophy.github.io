@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>/medal/0001/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/all/ut20001/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
@@ -43,6 +48,11 @@
   </url>
   
   <url>
+    <loc>/medal/0002/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/all/ut20002/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
@@ -70,6 +80,11 @@
   <url>
     <loc>/plastic/ut10003/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/medal/0003/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url>
   
   <url>
@@ -123,6 +138,16 @@
   </url>
   
   <url>
+    <loc>/medal/0004/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/medal/0005/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/all/ut20005/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
@@ -150,6 +175,11 @@
   <url>
     <loc>/plastic/ut10005/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/medal/0006/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
@@ -183,6 +213,11 @@
   </url>
   
   <url>
+    <loc>/medal/0007/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/all/ut20007/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
@@ -210,6 +245,11 @@
   <url>
     <loc>/plastic/ut10007/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/medal/0008/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
@@ -243,6 +283,11 @@
   </url>
   
   <url>
+    <loc>/medal/0009/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/all/ut20009/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
@@ -273,6 +318,16 @@
   </url>
   
   <url>
+    <loc>/medal/0010/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/medal/0011/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/all/ut20010/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
@@ -299,6 +354,11 @@
   
   <url>
     <loc>/metal/ut30011/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/medal/0012/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
@@ -793,16 +853,6 @@
   </url>
   
   <url>
-    <loc>/all/ut30036/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/metal/ut30036/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/all/ut20037/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
@@ -833,62 +883,17 @@
   </url>
   
   <url>
-    <loc>/all/ut20040/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20040/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20041/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20041/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20042/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20042/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20043/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20043/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/all/ut20044/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wood/ut20044/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
     <loc>/all/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/medal/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
