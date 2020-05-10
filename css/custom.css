@@ -1,1 +1,10 @@
-/* your styles go here */
+/*.site-menu .social .icon-facebook {
+    color: blue;
+}
+.site-menu .social .icon-instagram {
+    color: #db18f3;
+}
+.body_contact .sticky-wrapper .site-navbar .site-menu > li > a {
+    color: #000000 !important;
+    font-weight: 700;
+}*/
